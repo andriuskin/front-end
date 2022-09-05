@@ -1,0 +1,31 @@
+header {
+    background-color: darkolivegreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+article {
+    border: 1px solid black;
+    flex: 1;
+}
+
+main {
+    display: flex;
+}
+
+img {
+    float: left;
+    margin: 20px;
+}
