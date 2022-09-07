@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+div img {
+    border-radius: 50%;
+    width:  100px;
+    height: 100px;
+}
+
+header .wrapper {
+    padding: 10px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header {
+    background-color: rgb(228, 192, 94);
+}
+
+
+nav ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+.wrapper {
+    width: 800px;
+    margin: auto;
+}
+
+.spalva {
+    background-color: lightgrey;
+}
+
+footer {
+    background-color: rgb(228, 192, 94);
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
